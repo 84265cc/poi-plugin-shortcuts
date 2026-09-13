@@ -1,0 +1,17 @@
+{
+  "name": "poi-plugin-shortcuts",
+  "version": "1.1.1",
+  "description": "Favorite poi plugins and open them from an icon-only shortcut bar.",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "license": "MIT",
+  "poiPlugin": {
+    "title": "插件快捷列",
+    "description": "收藏插件並在訊息列右側顯示圖示捷徑",
+    "icon": "fa/star",
+    "priority": 1
+  }
+}
+
